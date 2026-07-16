@@ -1,4 +1,118 @@
-## Hi there 👋
+<div align="center">
+
+# Hi 👋 I'm Kartik Yadav
+
+### Cybersecurity Analyst | VAPT | Web & API Security | SOC | Red Team Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Web+Application+Pentester;API+Security+Tester;SOC+Analyst;Always+Learning+Something+New"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Graduate
+- 🛡️ Cybersecurity Professional
+- 🔍 Specialized in Web Application & API Security
+- ⚡ Hands-on with Burp Suite, Nmap, Metasploit, Wireshark
+- 🐧 Linux & Windows Security
+- 📚 Currently Learning:
+  - Hack The Box CPTS
+  - Advanced Red Teaming
+  - Active Directory Security
+  - Cloud Security
+
+---
+
+# 🛠 Tech Stack
+
+### Offensive Security
+
+![Burp](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-blue?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-black?style=for-the-badge)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+
+### Security
+
+- Web Application Security
+- API Security
+- OWASP Top 10
+- OWASP API Top 10
+- Vulnerability Assessment
+- Penetration Testing
+- Active Directory
+- Microsoft Defender
+- Microsoft Intune
+- Microsoft Entra ID
+
+---
+
+# 📜 Certifications
+
+🏅 CEH
+
+🏅 Armour Infosec Web Application Penetration Tester (AIWAPT)
+
+🏅 Microsoft Security Learning
+
+---
+
+# 🚀 Current Focus
+
+✅ Web Pentesting
+
+✅ API Pentesting
+
+✅ Active Directory
+
+✅ Bug Bounty
+
+✅ CPTS Preparation
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=2&column=4)
+
+---
+
+# 📊 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+---
+
+## 📫 Connect with Me
+
+🌐 Portfolio: https://kartiksec.in
+
+💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+
+📧 Email: your@email.com
 
 <!--
 **KartikkYadav/KartikkYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
