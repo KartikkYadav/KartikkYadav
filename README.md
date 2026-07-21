@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Kartik Yadav
 
-### Cybersecurity Analyst | VAPT | Web & API Security | SOC | Red Team Learner
+### Certified Ethical Hacker | VAPT | Web & API Security | SOC | Red Team Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Web+Application+Pentester;API+Security+Tester;SOC+Analyst;Always+Learning+Something+New"/>
 
@@ -66,7 +66,7 @@
 
 🏅 Armour Infosec Web Application Penetration Tester (AIWAPT)
 
-🏅 Microsoft Security Learning
+🏅 Armour Infosec Certified Linux Server Administrator (AICLSA)
 
 ---
 
@@ -94,9 +94,9 @@
 
 🌐 Portfolio: https://kartiksec.in
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/kartik-yadav-6374a11aa/
 
-📧 Email: your@email.com
+📧 Email: karthikyad007@email.com
 
 <!--
 **KartikkYadav/KartikkYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
