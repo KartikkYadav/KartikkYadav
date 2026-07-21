@@ -4,7 +4,7 @@
 
 ### Certified Ethical Hacker | VAPT | Web & API Security | SOC | Red Team Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Web+Application+Pentester;API+Security+Tester;SOC+Analyst;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Web+Application+Pentester;API+Security+Tester;Network+Pentester;"/>
 
 </div>
 
