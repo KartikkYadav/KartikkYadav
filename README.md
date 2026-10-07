@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Kartik Yadav
 
-### Certified Ethical Hacker | VAPT | Web & API Security | SOC | Red Team Learner
+### Certified Ethical Hacker | VAPT | Web & API Security | Offensive Security
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Web+Application+Pentester;API+Security+Tester;Network+Pentester;"/>
 
@@ -17,11 +17,6 @@
 - 🔍 Specialized in Web Application & API Security
 - ⚡ Hands-on with Burp Suite, Nmap, Metasploit, Wireshark
 - 🐧 Linux & Windows Security
-- 📚 Currently Learning:
-  - Hack The Box CPTS
-  - Advanced Red Teaming
-  - Active Directory Security
-  - Cloud Security
 
 ---
 
@@ -55,8 +50,7 @@
 - Penetration Testing
 - Active Directory
 - Microsoft Defender
-- Microsoft Intune
-- Microsoft Entra ID
+
 
 ---
 
@@ -71,10 +65,6 @@
 ---
 
 # 🚀 Current Focus
-
-✅ Web Pentesting
-
-✅ API Pentesting
 
 ✅ Active Directory
 
