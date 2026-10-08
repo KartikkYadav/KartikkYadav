@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Graduate
-- 🛡️ Cybersecurity Professional
-- 🔍 Specialized in Web Application & API Security
-- ⚡ Hands-on with Burp Suite, Nmap, Metasploit, Wireshark
-- 🐧 Linux & Windows Security
-
+- 🔐 Certified Ethical Hacker | Cybersecurity & VAPT  
+- 🛡️ Web • API • Network Security | Penetration Testing  
+- 💻 Linux • Windows • Active Directory  
+- 🚩 CTFs • Bug Bounty • Vulnerability Research  
+- 🐛 Reported real-world security vulnerabilities  
+- 📚 CPTS | Offensive Security | Security Labs
 ---
 
 # 🛠 Tech Stack
